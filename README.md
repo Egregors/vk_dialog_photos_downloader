@@ -8,7 +8,7 @@ _ver.: **0.1**
 Это скрипт, который позволяет скачать все фотографии в максимально доступном
 качестве из конкретного диолога из [VKontakte](http://vk.com)
 
-![vk_dpd_2](https://raw.githubusercontent.com/Egregors/HWP/master/docs/img/vk_dpd_2.png)
+![vk_dpd_2](https://raw.githubusercontent.com/Egregors/vk_dialog_photos_downloader/master/docs/img/vk_dpd_2.png)
 
 ## Зачем это?
 
@@ -42,13 +42,13 @@ python vk_dpd.py -r <remixsid> -d <dialog_id>
 
 Где **remixsid** — ключ из cookies, который можно посмотреть в консоли для отладки в хроме:
 
-![vk_dpd_0](https://raw.githubusercontent.com/Egregors/HWP/master/docs/img/vk_dpd_0.png)
+![vk_dpd_0](https://raw.githubusercontent.com/Egregors/vk_dialog_photos_downloader/master/docs/img/vk_dpd_0.png)
 
 Само собой, в это время нужно быть авторизованным в VK.
 
 Где **dialog_id** — уникальный номер диалога, который можно взять из ссылки:
 
-![vk_dpd_1](https://raw.githubusercontent.com/Egregors/HWP/master/docs/img/vk_dpd_1.png)
+![vk_dpd_1](https://raw.githubusercontent.com/Egregors/vk_dialog_photos_downloader/master/docs/img/vk_dpd_1.png)
 
 ### Дополнительные параметры
 
