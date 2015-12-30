@@ -3,7 +3,7 @@ from __future__ import unicode_literals
 
 #   VK Dialog Photo Downloader
 #   ==========================
-#   ver.: 0.1
+#   ver.: 0.1.1
 #
 #   @egregors (2015)
 import json
