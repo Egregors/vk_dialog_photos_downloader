@@ -1,7 +1,7 @@
 VK Dialog Photos Downloader
 ===========================
 
-_ver.: **0.1.1**
+_ver.:_ **0.1.5**
 
 ## Что это?
 
@@ -49,6 +49,9 @@ python vk_dpd.py -r <remixsid> -d <dialog_id>
 Где **dialog_id** — уникальный номер диалога, который можно взять из ссылки:
 
 ![vk_dpd_1](https://raw.githubusercontent.com/Egregors/vk_dialog_photos_downloader/master/docs/img/vk_dpd_1.png)
+
+Если значением параметра **dialog_id** аказано "all", скрипт попробует скачать фотографии
+из всех диалогов от 0 до 9999999999 (ОООоооочень медленно)
 
 ### Дополнительные параметры
 
